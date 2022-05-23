@@ -1,0 +1,13 @@
+1. Assumes the OCaml installation process as dictated by Fall 2021 CS 3110: 
+   https://cs3110.github.io/textbook/chapters/preface/install.html
+
+2. Download the Graphics, ANSIITerminal, and yojson libraries:
+   opam install graphics ANSIITerminal yojson
+
+3. An XServer is require to run the graphics
+   Windows: download XMing
+   Mac: download XQuartz (and restart laptop after)s
+
+4. Run "make build"
+
+5. Run "make play" to begin simulation

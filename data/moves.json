@@ -1,0 +1,106 @@
+{
+  "Slam": {
+    "power": 80,
+    "element": "Normal"
+  },
+  "Thunder Shock": {
+    "power": 40,
+    "element": "Electric"
+  },
+  "Quick Attack": {
+    "power": 40,
+    "element": "Normal"
+  },
+  "Electro Ball": {
+    "power": 60,
+    "element": "Normal"
+  },
+  "Tackle": {
+    "power": 40,
+    "element": "Normal"
+  },
+  "Vine Whip": {
+    "power": 45,
+    "element": "Grass"
+  },
+  "Razor Leaf": {
+    "power": 55,
+    "element": "Grass"
+  },
+  "Solar Beam": {
+    "power": 80,
+    "element": "Grass"
+  },
+  "Water Gun": {
+    "power": 40,
+    "element": "Water"
+  },
+  "Water Pulse": {
+    "power": 60,
+    "element": "Water"
+  },
+  "Hydro Pump": {
+    "power": 80,
+    "element": "Water"
+  },
+  "Scratch": {
+    "power": 40,
+    "element": "Normal"
+  },
+  "Ember": {
+    "power": 40,
+    "element": "Fire"
+  },
+  "Flamethrower": {
+    "power": 70,
+    "element": "Fire"
+  },
+  "Inferno": {
+    "power": 80,
+    "element": "Fire"
+  },
+  "Bug Bite": {
+    "power": 60,
+    "element": "Bug"
+  },
+  "Twineedle": {
+    "power": 30,
+    "element": "Bug"
+  },
+  "Pin Missile": {
+    "power": 30,
+    "element": "Bug"
+  },
+  "Leech Life": {
+    "power": 70,
+    "element": "Bug"
+  },
+  "Rock Throw": {
+    "power": 50,
+    "element": "Rock"
+  },
+  "Earthquake": {
+    "power": 80,
+    "element": "Rock"
+  },
+  "Explosion": {
+    "power": 80,
+    "element": "Normal"
+  },
+  "Encapsulate": {
+    "power": 80,
+    "element": "Camel"
+  },
+  "Abstract": {
+    "power": 80,
+    "element": "Camel"
+  },
+  "Raise Fail": {
+    "power": 80,
+    "element": "Camel"
+  },
+  "Type Check": {
+    "power": 80,
+    "element": "Camel"
+  }
+}
